@@ -1,0 +1,2 @@
+# Info-Assurance-Risk-Management
+This Risk Assessment report is created as a part of the coursework for LIBR514K and is created in accordance with the NIST SP-800-30 guidelines.  This report details the risks and vulnerabilities encountered in the desktop website of Scotia Bank. This risk assessment can benefit the targeted audience using the website,the people planning to use, and the bank itself so that the threats posed can be reduced.
